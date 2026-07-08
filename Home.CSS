@@ -1,0 +1,86 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #006bb3;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#title{
+    background-color:#006bb3;
+    margin:0px;
+    border:2px solid black;
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    font-weight:bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+table{
+    border:5px solid goldenrod;
+    padding:10px;
+}
+table,th,tr,td{
+    border:5px solid goldenrod;
+    border-collapse:collapse;
+    font-weight:bold;
+    padding:5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#CupWinner{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-weight:bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#CR7{
+    font-weight:bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    border-radius:5px;
+    padding:7px;
+    color:white;
+    background-color:#006bb3;
+    font-weight:bold;
+}
+input{
+    padding:7px;
+}
+#FIFA{
+    width:100px;
+    height:auto;
+}
+#p1{
+    width:auto;
+    height:150px;
+    padding:0px;
+    margin:0px;
+}
+#p2{
+    width:auto;
+    height:150px;
+}
+#p3{
+    width:auto;
+    height:150px;
+}
+#p4{
+    width:auto;
+    height:150px;
+}
+#p5{
+    width:auto;
+    height:150px;
+}
+#t2,tr,td{
+    padding:0px;
+    margin:0px;
+}
+#stadium{
+    width:auto;
+    height:500px;
+    border:3px solid white;
+    border-radius:5px;
+}
